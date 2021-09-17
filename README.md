@@ -10,6 +10,8 @@ Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de 
 Python
 Jupyter
 Pandas
+Matplotlib
+Skit-learn
 
 
 
