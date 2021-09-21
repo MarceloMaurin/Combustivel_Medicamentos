@@ -7,6 +7,7 @@
 
 <H3>Trabalho</H3>
 Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.
+<p>Trabalho de referencia, e base deste <a href="https://github.com/storopoli/ciencia-de-dados">link</a>.</p>
 
 <h4>Premissa</h4>
 Conforme apresentado pela mídia e pela distribuidora Petrobras, o combustivel tem valor indexado, pela variação cambial do dolar.
