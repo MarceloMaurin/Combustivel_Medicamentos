@@ -32,3 +32,10 @@ O objetivo desta analise é refutar ou validar tal afirmação através da anali
 <h3>IPC Ampliado</h3>
 <a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">fonte</a>
 
+<h1>Estrutura do projeto</h1>
+<p> O projeto é dividido em pastas, estas são:</p>
+<ol>
+  <li>Dados</li> Estrutura de dados coletados
+  <li>Python</li> Scripts de Python
+  <li>Notebook</li> Arquivos de documentação
+</ol>
