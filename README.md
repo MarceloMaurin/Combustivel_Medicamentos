@@ -2,8 +2,8 @@
 
 <H2>Analise de Preços</H2>
 
-<img src="https://www.uninove.br/logo-uninove.svg" alt="uninov" width="200" height="100">Trabalho da Pós graduação da UNINOVE.
-Matéria de Python
+<img src="https://www.uninove.br/logo-uninove.svg" alt="uninov" width="200" height="100"><br/>Trabalho da Pós graduação da UNINOVE.
+<br/>Matéria de Python
 
 <H3>Trabalho</H3>
 Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.
