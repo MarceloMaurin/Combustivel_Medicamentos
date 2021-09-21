@@ -2,7 +2,7 @@
 
 <H2>Analise de Preços</H2>
 
-Trabalho da Pós graduação da UNINOVE.
+<img src="https://www.uninove.br/logo-uninove.svg" alt="uninov" width="10" height="20">Trabalho da Pós graduação da UNINOVE.
 Matéria de Python
 
 <H3>Trabalho</H3>
