@@ -10,8 +10,7 @@ Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de 
 <p>Trabalho de referencia, e base deste <a href="https://github.com/storopoli/ciencia-de-dados">link</a>.</p>
 
 <h4>Premissa</h4>
-Conforme apresentado pela mídia e pela distribuidora Petrobras, o combustivel tem valor indexado, pela variação cambial do dolar.
-O objetivo desta analise é refutar ou validar tal afirmação através da analise de dados.
+Validar a variação de preços do dolar e sua contraparte no mercado de ações.
 
 <h3>Recursos de Linguagem e ferramentas</h3>
 <ol>
