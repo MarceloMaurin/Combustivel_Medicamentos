@@ -44,6 +44,10 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <h3>Pasta Python</h3>
 <p>Através dos scripts aqui inclusos. É possivel gerar as informações e processar em lote as informações e dados do projeto</p>
 
+<h3>Notebook</h3>
+Aqui explicamos como foi realizado as operações de manipulação dos dados.
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Importa%C3%A7%C3%A3o%20dados%20do%20Dolar%20.ipynb">
+Importação de dados do Mês Dolar</A>
 
 <h1>English</h1>
 
