@@ -6,10 +6,10 @@
 <br/>Matéria de Python
 
 <H2>Grupo:</H2>
-<H2> - Aland
- - Jhone Fontenele
- - Luciano
- - Marcelo
+<H2> - Aland \n
+ - Jhone Fontenele\n
+ - Luciano\n
+ - Marcelo\n
  </H2>
 
 <H3>Trabalho</H3>
