@@ -59,10 +59,10 @@ No grafico acima, podemos verificar a identificação dos pontos abaixo da linha
 Sugerindo que a elevação do dolar prejudica os ganhos futuros.
 
 Comportamento esse que pode ser verificado em alguns artigos abaixo:
-<a href="https://economia.uol.com.br/noticias/redacao/2021/09/08/dolar-comercial-opera-em-alta-r-5221.htm">Bolsa cai quase 4% e dólar vai a R$ 5,32</a>
-
-<a href="https://www.agazeta.com.br/es/economia/dolar-opera-em-alta-e-bolsa-cai-apos-atos-antidemocraticos-de-7-de-setembro-0921">Dólar opera em alta e Bolsa cai</a>
-
+<ol>
+<li><a href="https://economia.uol.com.br/noticias/redacao/2021/09/08/dolar-comercial-opera-em-alta-r-5221.htm">Bolsa cai quase 4% e dólar vai a R$ 5,32</a></li>
+<li><a href="https://www.agazeta.com.br/es/economia/dolar-opera-em-alta-e-bolsa-cai-apos-atos-antidemocraticos-de-7-de-setembro-0921">Dólar opera em alta e Bolsa cai</a></li>
+</ol>
 <h1>English</h1>
 
 
