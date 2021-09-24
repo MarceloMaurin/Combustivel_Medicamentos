@@ -7,7 +7,14 @@
 
 <H3>Trabalho</H3>
 Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.
-<p>Trabalho de referencia, e base deste <a href="https://github.com/storopoli/ciencia-de-dados">link</a>.</p>
+<p>Trabalho de referencia, e base deste <a href="https://github.com/storopoli/ciencia-de-dados">
+@misc{storopolisouza2020cienciadedados,
+  author = {Storopoli, Jose and Souza, Edson Melo de},
+  title = {Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch},
+  url = {https://storopoli.io/ciencia-de-dados},
+  year = {2020}
+}  
+</a>.</p>
 
 <h4>Premissa</h4>
 Validar a variação de preços do dolar e sua contraparte no mercado de ações. Realizando uma analise comparativa da evolução de preços.
