@@ -10,7 +10,7 @@ Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de 
 <p>Trabalho de referencia, e base deste <a href="https://github.com/storopoli/ciencia-de-dados">link</a>.</p>
 
 <h4>Premissa</h4>
-Validar a variação de preços do dolar e sua contraparte no mercado de ações.
+Validar a variação de preços do dolar e sua contraparte no mercado de ações. Realizando uma analise comparativa da evolução de preços.
 
 <h3>Recursos de Linguagem e ferramentas</h3>
 <ol>
@@ -18,15 +18,11 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
   <li>Jupyter</li>
   <li>Pandas</li>
   <li>Matplotlib</li>
-  <li>Skit-learn</li>
 </ol>
 
 
 
 <h3>Fontes que serão analisados</h3>
-
-<h4>Combustivel</h4>
-<a href="https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda">fonte</a>
 
 <h4>DOLAR</h4>
 <a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">fonte</a>
