@@ -7,13 +7,9 @@
 
 <H3>Trabalho</H3>
 Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.
-<p>Trabalho de referencia, e base deste <a href="https://github.com/storopoli/ciencia-de-dados">
-@misc{storopolisouza2020cienciadedados,
-  author = {Storopoli, Jose and Souza, Edson Melo de},
-  title = {Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch},
-  url = {https://storopoli.io/ciencia-de-dados},
-  year = {2020}
-}  
+<p>Trabalho de referencia, e base deste <br/>
+  <a href="https://github.com/storopoli/ciencia-de-dados">
+Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
 </a>.</p>
 
 <h4>Premissa</h4>
