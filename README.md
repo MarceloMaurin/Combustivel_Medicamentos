@@ -49,6 +49,20 @@ Aqui explicamos como foi realizado as operações de manipulação dos dados.
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Importa%C3%A7%C3%A3o%20dados%20do%20Dolar%20.ipynb">
 Importação de dados do Mês Dolar</A>
 
+<h1>Conclusão do Trabalho</h1>
+Através da analise de uma pequena amostra, pudemos observar que neste contexto analisado.
+
+<h2>Gráfico Scatter ou Gráfico de Dispersão</2>
+<img href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/GRAFICO01.JPG">
+
+No grafico acima, podemos verificar a identificação dos pontos abaixo da linha mediana. Indicando que a subida do dolar é inversamente proporcional a elevação dos indices do mercado de ação.
+Sugerindo que a elevação do dolar prejudica os ganhos futuros.
+
+Comportamento esse que pode ser verificado em alguns artigos abaixo:
+<a href="https://economia.uol.com.br/noticias/redacao/2021/09/08/dolar-comercial-opera-em-alta-r-5221.htm">Bolsa cai quase 4% e dólar vai a R$ 5,32 após fala golpista de Bolsonaro... - Veja mais em https://economia.uol.com.br/noticias/redacao/2021/09/08/dolar-comercial-opera-em-alta-r-5221.htm?cmpid=copiaecola</a>
+
+<a href="https://www.agazeta.com.br/es/economia/dolar-opera-em-alta-e-bolsa-cai-apos-atos-antidemocraticos-de-7-de-setembro-0921">Dólar opera em alta e Bolsa cai após atos antidemocráticos de 7 de setembro</a>
+
 <h1>English</h1>
 
 
