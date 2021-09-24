@@ -6,11 +6,11 @@
 <br/>Matéria de Python
 
 <H2>Grupo:</H2>
-<H2> - Aland \n
- - Jhone Fontenele\n
- - Luciano\n
- - Marcelo\n
- </H2>
+<H2> - Aland  </H2>
+<H2> - Jhone Fontenele </H2>
+<H2> - Luciano </H2>
+<H2> - Marcelo</H2>
+ 
 
 <H3>Trabalho</H3>
 Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.
