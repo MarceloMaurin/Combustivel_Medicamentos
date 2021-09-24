@@ -5,9 +5,11 @@ import matplotlib.pyplot as plt
 
 """O Objetivo é realizar a leitura de duas cotações sendo Ibovespa Futuro e Dolar, para entendimento da relação entre si"""
 """O Periodo de análise será entre 20 de agosto á 20 de setembro"""
+
 #Importação dos Datasets
 bolsa_valores = pd.read_csv('IBOV.csv')
 dollar = pd.read_csv('USD_BRL.csv')
+
 # Leitura do Dataset completo da Cotação do Dollar e da bolsa de valores 
 print("\n\n 1° Passo: Leitura do dataframe completo")
 print(f"Tabela USD/BRL \n {dollar}")
