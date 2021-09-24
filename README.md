@@ -53,8 +53,9 @@ Importação de dados do Mês Dolar</A>
 Através da analise de uma pequena amostra, pudemos observar que neste contexto analisado.
 
 <h2>Gráfico Scatter ou Gráfico de Dispersão</2>
+<br/>
 <img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/GRAFICO01.JPG">
-
+<br/>
 No grafico acima, podemos verificar a identificação dos pontos abaixo da linha mediana. Indicando que a subida do dolar é inversamente proporcional a elevação dos indices do mercado de ação.
 Sugerindo que a elevação do dolar prejudica os ganhos futuros.
 
