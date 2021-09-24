@@ -5,6 +5,13 @@
 <img src="https://www.uninove.br/logo-uninove.svg" alt="uninov" width="200" height="100"><br/>Trabalho da Pós graduação da UNINOVE.
 <br/>Matéria de Python
 
+<H2>Grupo
+Aland
+Jhone Fontenele
+Luciano
+Marcelo
+</H2>
+
 <H3>Trabalho</H3>
 Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.
 <p>Trabalho de referencia:<br/>
