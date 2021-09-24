@@ -33,7 +33,7 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <h4>IPC Ampliado</h4>
 <a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">fonte</a>
 
-<h2>Estrutura do projeto</h2>
+<h3>Estrutura do projeto</h3>
 <p> O projeto é dividido em pastas, estas são:</p>
 <ol>
   <li>Dados</li> Estrutura de dados coletados
