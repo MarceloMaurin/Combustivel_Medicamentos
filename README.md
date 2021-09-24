@@ -12,7 +12,7 @@ Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de 
 Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
 </a>.</p>
 
-<h4>Premissa</h4>
+<h3>Premissa</h3>
 Validar a variação de preços do dolar e sua contraparte no mercado de ações. Realizando uma analise comparativa da evolução de preços.
 
 <h3>Recursos de Linguagem e ferramentas</h3>
