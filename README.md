@@ -49,10 +49,10 @@ Aqui explicamos como foi realizado as operações de manipulação dos dados.
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Importa%C3%A7%C3%A3o%20dados%20do%20Dolar%20.ipynb">
 Importação de dados do Mês Dolar</A>
 
-<h1>Conclusão do Trabalho</h1>
+<h3>Conclusão do Trabalho</h3>
 Através da analise de uma pequena amostra, pudemos observar que neste contexto analisado.
 
-<h2>Gráfico Scatter ou Gráfico de Dispersão</h2>
+<h4>Gráfico Scatter ou Gráfico de Dispersão</h4>
 <br/>
 <img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/GRAFICO01.JPG">
 <br/>
