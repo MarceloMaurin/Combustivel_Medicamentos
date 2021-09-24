@@ -1,7 +1,6 @@
 """ Análise de Dados"""
 import pandas as pd
 import numpy as np
-
 import matplotlib.pyplot as plt
 """O Objetivo é realizar a leitura de duas cotações sendo Ibovespa Futuro e Dolar, para entendimento da relação entre si"""
 """O Periodo de análise será entre 20 de agosto á 20 de setembro"""
