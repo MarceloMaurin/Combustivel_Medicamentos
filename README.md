@@ -52,7 +52,7 @@ Importação de dados do Mês Dolar</A>
 <h1>Conclusão do Trabalho</h1>
 Através da analise de uma pequena amostra, pudemos observar que neste contexto analisado.
 
-<h2>Gráfico Scatter ou Gráfico de Dispersão</2>
+<h2>Gráfico Scatter ou Gráfico de Dispersão</h2>
 <br/>
 <img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/GRAFICO01.JPG">
 <br/>
