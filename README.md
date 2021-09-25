@@ -23,6 +23,11 @@ Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scik
 
 <h3>Objetivo da Analise de Dados</h3>
 Validar a variação de preços do dolar e sua contraparte no mercado de ações. Realizando uma analise comparativa da evolução de preços.
+<p> Esta analise será montada em duas visões:</p>
+- Visão estreita de perído de 30 dias
+- Visão mais ampla em período prolongado.
+
+
 
 <h3>Recursos de Linguagem e ferramentas</h3>
 <ol>
@@ -85,6 +90,11 @@ Comportamento esse que pode ser verificado em alguns artigos abaixo:
 <li><a href="http://sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/">Dólar opera em alta e Bolsa cai</a></li>
 </ol>
 
+  <h4>Segunda analise de dados</h4>
+  
+  <p> Alem dos pontos apresentados, existem outros fatores externos a esta analise, que estão fora do escopo da analise, porem não invalidam a relação direta apresentada.</p>
+  
+ <p>Observando na visão estreita, como na visão mais ampla, podemos perceber, que mesmo no dia a dia, a variação do dolar e da bolsa, tende a ser precisa na analise apresentada. Tambem se mantendo na visão mais ampla, com medias de ganhos mensais.</P>
 
 <h1>English</h1>
 
