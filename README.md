@@ -14,11 +14,12 @@
 </ol>
 
 <H3>Trabalho</H3>
-Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.
+Desenvolver uma analise de dados usando as ferramentas aprendidas na materia de Python.<br/>
 <p>Trabalho de referencia:<br/>
   <a href="https://github.com/storopoli/ciencia-de-dados">
 Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
-</a>.</p>
+</a>.
+</p>
 
 <h3>Premissa</h3>
 Validar a variação de preços do dolar e sua contraparte no mercado de ações. Realizando uma analise comparativa da evolução de preços.
@@ -36,11 +37,13 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <h3>Fontes que serão analisados</h3>
 
 <h4>DOLAR</h4>
+<br/>
 <a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">fonte</a>
-
+<br/>
 <h4>IPC Ampliado</h4>
+<br/>
 <a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">fonte</a>
-
+<br/>
 <h3>Estrutura do projeto</h3>
 <p> O projeto é dividido em pastas, estas são:</p>
 <ol>
@@ -53,13 +56,13 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <p>Através dos scripts aqui inclusos. É possivel gerar as informações e processar em lote as informações e dados do projeto</p>
 
 <h3>Notebook</h3>
-Aqui explicamos como foi realizado as operações de manipulação dos dados.
-
+<p>Aqui explicamos como foi realizado as operações de manipulação dos dados.</p>
+<br/>
 
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021.ipynb">
   <b>Importação do dollar</b>
 </a>
-  
+<br/>  
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021.ipynb">
   <b>Importação de dados da Bolsa</b>
 </a>  
