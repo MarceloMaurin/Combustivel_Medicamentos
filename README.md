@@ -165,7 +165,7 @@ Validate the price variation of the dollar and its counterpart in the stock mark
 </a>
 <br/>
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
-  <b>Dolar x IBOV2.ipynb Analysis</b> - Analyze with wide vision (9 months) complementary to the Dolar x IBOVESPA vision
+  <b>Analise Dolar x IBOV2.ipynb</b> - Analyze with wide vision (9 months) complementary to the Dolar x IBOVESPA vision
 </a>
 
 
