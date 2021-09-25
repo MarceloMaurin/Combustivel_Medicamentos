@@ -58,12 +58,12 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <p>Aqui explicamos como foi realizado as operações de manipulação dos dados.</p>
 <br/>
 
-<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021.ipynb">
-  <b>Importação do dollar</b>
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Analise%20Dolar%20x%20IBOV.ipynb">
+  <b>Analise Dolar x IBOV.ipynb</b>
 </a>
 <br/>  
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021.ipynb">
-  <b>Importação de dados da Bolsa</b>
+  <b>Analise Dolar x IPCA</b>
 </a>  
 
 
