@@ -93,6 +93,7 @@ Comportamento esse que pode ser verificado em alguns artigos abaixo:
   
   <p> Alem dos pontos apresentados, existem outros fatores externos a esta analise, que estão fora do escopo da analise, porem não invalidam a relação direta apresentada.</p>
   
+ <img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/visao%20ampla.png">
  <p>Observando na visão estreita (30 dias), como na visão mais ampla (9 meses), podemos perceber que mesmo no dia a dia, a variação do dolar e da bolsa, tende a ser precisa na analise apresentada. Tambem se mantendo na visão mais ampla, com medias de ganhos mensais.</P>
 
 <h1>English</h1>
