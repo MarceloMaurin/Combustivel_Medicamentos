@@ -10,7 +10,7 @@
 <li>Aland Montano RA:621201522</li>
 <li>Jhone Fontenele </li>
 <li>Luciano </li>
-  <li><a href="http://maurinsoft.com.br/index.php/sobre-nos/">Marcelo Maurin Martins</a></li>
+  <li><a href="http://maurinsoft.com.br/index.php/sobre-nos/">Marcelo Maurin Martins</a> RA:621200322</li>
 </ol>
 
 <H3>Trabalho</H3>
