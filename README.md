@@ -82,7 +82,7 @@ Comportamento esse que pode ser verificado em alguns artigos abaixo:
 <br/>
 <ol>
 <li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/>Entenda por que quando os índices da bolsa caem o dolar aumenta</a></li>
-<li><a href="https://www.agazeta.com.br/es/economia/dolar-opera-em-alta-e-bolsa-cai-apos-atos-antidemocraticos-de-7-de-setembro-0921">Dólar opera em alta e Bolsa cai</a></li>
+<li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/">Dólar opera em alta e Bolsa cai</a></li>
 </ol>
 
 
