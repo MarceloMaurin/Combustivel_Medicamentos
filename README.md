@@ -55,8 +55,6 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
   <li>Notebook</li> Arquivos de documentação
 </ol>
 
-<h3>Pasta Python</h3>
-<p>Através dos scripts aqui inclusos. É possivel gerar as informações e processar em lote as informações e dados do projeto</p>
 
 <h3>Notebook</h3>
 <p>Aqui explicamos como foi realizado as operações de manipulação dos dados.</p>
