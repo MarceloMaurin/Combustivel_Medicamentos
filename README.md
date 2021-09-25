@@ -149,4 +149,56 @@ Validate the price variation of the dollar and its counterpart in the stock mark
 <h4><a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">DOLAR</a></h4>
 <p>Data source for Dollar.</p>  
 
+ <h3>Project Structure</h3>
+<p> The project is divided into folders, these are:</p>
+<ol>
+  <li>Data</li> Structure of collected data
+  <li>Notebook</li> Documentation files
+</ol>
+
+
+<h3>Notebook</h3>
+<p>Here we explain how the data manipulation operations were performed.</p>
+<br/>
+
+<a href="https://github.com/marcelomaurin/Analise-de-Price/blob/main/notebook/Analise%20Dolar%20x%20IBOV.ipynb">
+  <b>Analyze Dolar x IBOV.ipynb</b> - Assembling the narrow view (30), between the Dolar x IBOVESPA
+</a>
+<br/>
+<a href="https://github.com/marcelomaurin/Analise-de-Price/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
+  <b>Dolar x IBOV2.ipynb Analysis</b> - Analyze with wide vision (9 months) complementary to the Dolar x IBOVESPA vision
+</a>
+
+
+
+<h3>Completion of Work</h3>
+Through the analysis of a small sample, we could observe that in this context analyzed.
+
+<h4>Scatter Chart or Scatter Chart</h4>
+<br/>
+<img src="https://github.com/marcelomaurin/Analise-de-Price/blob/main/GRAFICO01.JPG">
+<br/>
+In the graph above, we can see the identification of points below the midline. Indicating that the rise in the dollar is inversely proportional to the rise in stock market indices.
+Suggesting that the rise in the dollar harms future earnings.
+<br/>
+This behavior can be seen in some articles below:
+<br/>
+<ol>
+<li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-Quando-os-indices-da-bolsa-caem-o-dolar-aumenta/> Understand why when stock market indices fall, the dollar rises</a></li>
+<li><a href="http://sicoobexecutivo.com.br/ns/enenda-por-que-Quando-os-indices-da-bolsa-caem-o-dolar-aumenta/">Dollar operates on the rise and Bag drops</a></li>
+</ol>
+
+<h4>Second Data Analysis</h4>
+  <p> In this first graph, we can observe a comparative analysis, of the months, showing in a coherent way, the variation between the growth of the dollar and the shares' earnings.</p>
+<img src="https://github.com/marcelomaurin/Analise-de-Price/blob/main/visao%20ampla.png">
+ <p> Comparative analysis, it can be seen that most months the opposition rule of dollar x purse variation is maintained</p>
+<br/>
+ <h5>Candlestick Graphic</h5>
+ <img src="https://github.com/marcelomaurin/Analise-de-Price/blob/main/ganho%20da%20bolsa.png" >
+  <p>In this chart, we can see a downward trend in stocks.</p>
+<br/>
+ <p>Observing in the narrow view (30 days), as in the broader view (9 months), we can see that even in everyday life, the variation of the dollar and the purse tends to be precise in the presented analysis. Also keeping to the broader view, with average monthly earnings.</P>
+
+  <p> In addition to the points presented, there are other factors external to this analysis, which are outside the scope of the analysis, but do not invalidate the direct relationship presented. Such as economic crisis biases, political factors, among others.</p>
+
 <h1>Spanish</h1>
