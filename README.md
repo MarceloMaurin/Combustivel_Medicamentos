@@ -54,8 +54,17 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 
 <h3>Notebook</h3>
 Aqui explicamos como foi realizado as operações de manipulação dos dados.
-<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Importa%C3%A7%C3%A3o%20dados%20do%20Dolar%20.ipynb">
-Importação de dados do Mês Dolar</A>
+
+
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021.ipynb">
+  <b>Importação do dollar</b>
+</a>
+  
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021.ipynb">
+  <b>Importação de dados da Bolsa</b>
+</a>  
+
+
 
 <h3>Conclusão do Trabalho</h3>
 Através da analise de uma pequena amostra, pudemos observar que neste contexto analisado.
