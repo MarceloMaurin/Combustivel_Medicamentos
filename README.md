@@ -10,7 +10,7 @@
 <li>Aland</li>
 <li>Jhone Fontenele</li>
 <li>Luciano</li>
-<li>Marcelo Maurin Martins</li>
+  <li><a href="http://maurinsoft.com.br/index.php/sobre-nos/">Marcelo Maurin Martins</a></li>
 </ol>
 
 <H3>Trabalho</H3>
