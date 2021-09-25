@@ -36,14 +36,11 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 
 <h3>Fontes que serão analisados</h3>
 
-<h4>DOLAR</h4>
-<br/>
-<a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">fonte</a>
-<br/>
-<h4>IPC Ampliado</h4>
-<br/>
-<a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">fonte</a>
-<br/>
+<h4><a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">DOLAR</a></h4>
+<p>Fonte de dados referente ao Dollar.</p>
+
+<h4><a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">IPC Ampliado</a></h4> 
+<p>Fonte de dados referente ao IPC (<a href="https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=o-que-e">Indice de Preço ao Consumidor</a>).</p>
 <h3>Estrutura do projeto</h3>
 <p> O projeto é dividido em pastas, estas são:</p>
 <ol>
@@ -78,8 +75,9 @@ Através da analise de uma pequena amostra, pudemos observar que neste contexto 
 <br/>
 No grafico acima, podemos verificar a identificação dos pontos abaixo da linha mediana. Indicando que a subida do dolar é inversamente proporcional a elevação dos indices do mercado de ação.
 Sugerindo que a elevação do dolar prejudica os ganhos futuros.
-
+<br/>
 Comportamento esse que pode ser verificado em alguns artigos abaixo:
+<br/>
 <ol>
 <li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/>Entenda por que quando os índices da bolsa caem o dolar aumenta</a></li>
 <li><a href="https://www.agazeta.com.br/es/economia/dolar-opera-em-alta-e-bolsa-cai-apos-atos-antidemocraticos-de-7-de-setembro-0921">Dólar opera em alta e Bolsa cai</a></li>
