@@ -83,8 +83,7 @@ Sugerindo que a elevação do dolar prejudica os ganhos futuros.
 Comportamento esse que pode ser verificado em alguns artigos abaixo:
 <br/>
 <ol>
-<li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/>Entenda por que quando os índices da bolsa caem o dolar aumenta</a></li>
-<li><a href="http://sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/">Dólar opera em alta e Bolsa cai</a></li>
+<li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/">Entenda por que quando os índices da bolsa caem o dolar aumenta</a></li>
 </ol>
 
   <h4>Segunda analise de dados</h4>
@@ -184,8 +183,8 @@ Suggesting that the rise in the dollar harms future earnings.
 This behavior can be seen in some articles below:
 <br/>
 <ol>
-<li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-Quando-os-indices-da-bolsa-caem-o-dolar-aumenta/> Understand why when stock market indices fall, the dollar rises</a></li>
-<li><a href="http://sicoobexecutivo.com.br/ns/enenda-por-que-Quando-os-indices-da-bolsa-caem-o-dolar-aumenta/">Dollar operates on the rise and Bag drops</a></li>
+<li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-Quando-os-indices-da-bolsa-caem-o-dolar-aumenta/"> Understand why when stock market indices fall, the dollar rises</a></li>
+
 </ol>
 
 <h4>Second Data Analysis</h4>
