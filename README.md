@@ -90,12 +90,15 @@ Comportamento esse que pode ser verificado em alguns artigos abaixo:
 </ol>
 
   <h4>Segunda analise de dados</h4>
+  <p> Neste primeiro gráfico, podemos observar uma analise comparativa, dos meses, mostrando de  forma coerente, a variação entre o crescimento do dolar e os ganhos das ações.</p>  
+<img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/visao%20ampla.png">
   
-  <p> Alem dos pontos apresentados, existem outros fatores externos a esta analise, que estão fora do escopo da analise, porem não invalidam a relação direta apresentada.</p>
-  
- <img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/visao%20ampla.png">
+ 
+ <br/> 
  <p>Observando na visão estreita (30 dias), como na visão mais ampla (9 meses), podemos perceber que mesmo no dia a dia, a variação do dolar e da bolsa, tende a ser precisa na analise apresentada. Tambem se mantendo na visão mais ampla, com medias de ganhos mensais.</P>
 
+  <p> Alem dos pontos apresentados, existem outros fatores externos a esta analise, que estão fora do escopo da analise, porem não invalidam a relação direta apresentada. Tal como, vies de crise economicas, fatores polícos, entre outros.</p>  
+  
 <h1>English</h1>
 
 
