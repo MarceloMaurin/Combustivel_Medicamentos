@@ -91,10 +91,13 @@ Comportamento esse que pode ser verificado em alguns artigos abaixo:
 
   <h4>Segunda analise de dados</h4>
   <p> Neste primeiro gráfico, podemos observar uma analise comparativa, dos meses, mostrando de  forma coerente, a variação entre o crescimento do dolar e os ganhos das ações.</p>  
-<img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/visao%20ampla.png">
-  
- 
- <br/> 
+<img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/visao%20ampla.png"> 
+ <p> Analise comparativa, pode ser vista que a maioria dos meses a regra de oposição da variação do dolar x bolsa se mantem</p>
+<br/> 
+ <h5>Gráfico de Candlestick</h5>
+ <img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/ganho%20da%20bolsa.png" >
+  <p>Neste grafico, podemos perceber uma tendencia de queda das ações.</p>
+<br/>  
  <p>Observando na visão estreita (30 dias), como na visão mais ampla (9 meses), podemos perceber que mesmo no dia a dia, a variação do dolar e da bolsa, tende a ser precisa na analise apresentada. Tambem se mantendo na visão mais ampla, com medias de ganhos mensais.</P>
 
   <p> Alem dos pontos apresentados, existem outros fatores externos a esta analise, que estão fora do escopo da analise, porem não invalidam a relação direta apresentada. Tal como, vies de crise economicas, fatores polícos, entre outros.</p>  
