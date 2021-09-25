@@ -104,5 +104,51 @@ Comportamento esse que pode ser verificado em alguns artigos abaixo:
   
 <h1>English</h1>
 
+<H2>Price Analysis</H2>
+
+<img src="https://www.uninove.br/logo-uninove.svg" alt="uninov" width="200" height="100"><br/>UNINOVE Graduate Work.
+<br/>Python subject
+
+<H3>Group Participants:</H3>
+<ol>
+<li>Aland Montano RA:621201522 - email: aland_25@uni9.edu.br</li>
+<li>Jhone Fontenele RA:621200985 - email: jhone.fontenele@turck.com</li>
+<li>Luciano Braga RA:621202498 - email: braga.luciano@uni9.edu.br </li>
+  <li><a href="http://maurinsoft.com.br/index.php/sobre-nos/">Marcelo Maurin Martins</a> RA:621200322 - email: marcelomaurin@uni9.edu.br</ read>
+</ol>
+
+<H3>Work</H3>
+Develop a data analysis using the tools learned in the Python matter.<br/>
+<p>Reference work:<br/>
+  <a href="https://github.com/storopoli/ciencia-de-dados">
+Storopoli & Souza (2020). Data Science with Python: pandas, matplotlib, Scikit-Learn, TensorFlow and PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
+</a>.
+</p>
+
+<h3>Data Analysis Purpose</h3>
+Validate the price variation of the dollar and its counterpart in the stock market. Conducting a comparative analysis of price evolution.
+<p> This analysis will be assembled in two views:</p>
+<ol>
+  <li>Narrow 30-day period view</li>
+  <li>Broader view over an extended period (9 months).</li>
+</ol>
+
+
+<h3>Language Resources and Tools</h3>
+<ol>
+  <li>Python</li>
+  <li>Jupyter</li>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+</ol>
+
+
+
+<h3>Sources to be analyzed</h3>
+<h4><a href="https://finance.yahoo.com/quote/%5EBVSP/history">IBOVESPA</a></h4>
+<p>Data source referring to Ibovespa indices.</p>
+
+<h4><a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">DOLAR</a></h4>
+<p>Data source for Dollar.</p>  
 
 <h1>Spanish</h1>
