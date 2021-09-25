@@ -64,7 +64,7 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
   <b>Analise Dolar x IBOV.ipynb</b> - Montagem da visão estreita (30), entre o Dolar x IBOVESPA
 </a>
 <br/>  
-<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Analise%20Dolar%20x%20IBOV2.ipynb">
   <b>Analise Dolar x IBOV2.ipynb</b> - Analise com visão larga (9 meses) complementar da visão Dolar x IBOVESPA
 </a>  
 
@@ -164,7 +164,7 @@ Validate the price variation of the dollar and its counterpart in the stock mark
   <b>Analyze Dolar x IBOV.ipynb</b> - Assembling the narrow view (30), between the Dolar x IBOVESPA
 </a>
 <br/>
-<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Analise%20Dolar%20x%20IBOV2.ipynb">
   <b>Analise Dolar x IBOV2.ipynb</b> - Analyze with wide vision (9 months) complementary to the Dolar x IBOVESPA vision
 </a>
 
