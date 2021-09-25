@@ -5,7 +5,7 @@
 <img src="https://www.uninove.br/logo-uninove.svg" alt="uninov" width="200" height="100"><br/>Trabalho da Pós graduação da UNINOVE.
 <br/>Matéria de Python
 
-<H2>Participantes do Grupo:</H2>
+<H3>Participantes do Grupo:</H3>
 <ol>
 <li>Aland</li>
 <li>Jhone Fontenele</li>
