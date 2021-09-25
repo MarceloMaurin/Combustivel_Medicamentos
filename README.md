@@ -7,9 +7,9 @@
 
 <H3>Participantes do Grupo:</H3>
 <ol>
-<li>Aland</li>
-<li>Jhone Fontenele</li>
-<li>Luciano</li>
+<li>Aland Montano RA:621201522</li>
+<li>Jhone Fontenele </li>
+<li>Luciano </li>
   <li><a href="http://maurinsoft.com.br/index.php/sobre-nos/">Marcelo Maurin Martins</a></li>
 </ol>
 
