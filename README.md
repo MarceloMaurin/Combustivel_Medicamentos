@@ -160,11 +160,11 @@ Validate the price variation of the dollar and its counterpart in the stock mark
 <p>Here we explain how the data manipulation operations were performed.</p>
 <br/>
 
-<a href="https://github.com/marcelomaurin/Analise-de-Price/blob/main/notebook/Analise%20Dolar%20x%20IBOV.ipynb">
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Analise%20Dolar%20x%20IBOV.ipynb">
   <b>Analyze Dolar x IBOV.ipynb</b> - Assembling the narrow view (30), between the Dolar x IBOVESPA
 </a>
 <br/>
-<a href="https://github.com/marcelomaurin/Analise-de-Price/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
   <b>Dolar x IBOV2.ipynb Analysis</b> - Analyze with wide vision (9 months) complementary to the Dolar x IBOVESPA vision
 </a>
 
