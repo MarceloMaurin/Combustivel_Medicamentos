@@ -59,11 +59,11 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <br/>
 
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Analise%20Dolar%20x%20IBOV.ipynb">
-  <b>Analise Dolar x IBOV.ipynb</b>
+  <b>Analise Dolar x IBOV.ipynb</b> - Montagem da visão inicial, entre o dolar x IBOVESPA
 </a>
 <br/>  
-<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021.ipynb">
-  <b>Analise Dolar x IPCA</b>
+<a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
+  <b>Analise Dolar x IBOV2.ipynb</b> - Analise complementar da visão Dolar x IBOVESPA
 </a>  
 
 
