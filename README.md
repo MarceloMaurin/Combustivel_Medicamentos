@@ -190,15 +190,14 @@ This behavior can be seen in some articles below:
 
 <h4>Second Data Analysis</h4>
   <p> In this first graph, we can observe a comparative analysis, of the months, showing in a coherent way, the variation between the growth of the dollar and the shares' earnings.</p>
-<img src="https://github.com/marcelomaurin/Analise-de-Price/blob/main/visao%20ampla.png">
+<img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/visao%20ampla.png"> 
  <p> Comparative analysis, it can be seen that most months the opposition rule of dollar x purse variation is maintained</p>
 <br/>
  <h5>Candlestick Graphic</h5>
- <img src="https://github.com/marcelomaurin/Analise-de-Price/blob/main/ganho%20da%20bolsa.png" >
+  <img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/ganho%20da%20bolsa.png" >
   <p>In this chart, we can see a downward trend in stocks.</p>
 <br/>
  <p>Observing in the narrow view (30 days), as in the broader view (9 months), we can see that even in everyday life, the variation of the dollar and the purse tends to be precise in the presented analysis. Also keeping to the broader view, with average monthly earnings.</P>
 
   <p> In addition to the points presented, there are other factors external to this analysis, which are outside the scope of the analysis, but do not invalidate the direct relationship presented. Such as economic crisis biases, political factors, among others.</p>
 
-<h1>Spanish</h1>
