@@ -21,7 +21,7 @@ Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scik
 </a>.
 </p>
 
-<h3>Premissa</h3>
+<h3>Objetivo da Analise de Dados</h3>
 Validar a variação de preços do dolar e sua contraparte no mercado de ações. Realizando uma analise comparativa da evolução de preços.
 
 <h3>Recursos de Linguagem e ferramentas</h3>
