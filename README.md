@@ -26,7 +26,7 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <p> Esta analise será montada em duas visões:</p>
 <ol>
   <li>Visão estreita de perído de 30 dias</li>
-  <li>Visão mais ampla em período prolongado (6 meses).</li>
+  <li>Visão mais ampla em período prolongado (9 meses).</li>
 </ol>
 
 
@@ -47,13 +47,11 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <h4><a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">DOLAR</a></h4>
 <p>Fonte de dados referente ao Dollar.</p>
 
-<h4><a href="https://www.econodados.com.br/tabela.dll/in5?cod_site=TestDrive%20Macrodados%20Online&pg=-1">IPC Ampliado</a></h4> 
-<p>Fonte de dados referente ao IPC (<a href="https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=o-que-e">Indice de Preço ao Consumidor</a>).</p>
+
 <h3>Estrutura do projeto</h3>
 <p> O projeto é dividido em pastas, estas são:</p>
 <ol>
   <li>Dados</li> Estrutura de dados coletados
-  <li>Python</li> Scripts de Python
   <li>Notebook</li> Arquivos de documentação
 </ol>
 
@@ -65,11 +63,11 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 <br/>
 
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/Analise%20Dolar%20x%20IBOV.ipynb">
-  <b>Analise Dolar x IBOV.ipynb</b> - Montagem da visão inicial, entre o dolar x IBOVESPA
+  <b>Analise Dolar x IBOV.ipynb</b> - Montagem da visão estreita (30), entre o Dolar x IBOVESPA
 </a>
 <br/>  
 <a href="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/notebook/dollar_bolsa_valores_2021b.ipynb">
-  <b>Analise Dolar x IBOV2.ipynb</b> - Analise complementar da visão Dolar x IBOVESPA
+  <b>Analise Dolar x IBOV2.ipynb</b> - Analise com visão larga (9 meses) complementar da visão Dolar x IBOVESPA
 </a>  
 
 
