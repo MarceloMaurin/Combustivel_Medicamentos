@@ -176,7 +176,7 @@ Through the analysis of a small sample, we could observe that in this context an
 
 <h4>Scatter Chart or Scatter Chart</h4>
 <br/>
-<img src="https://github.com/marcelomaurin/Analise-de-Price/blob/main/GRAFICO01.JPG">
+<img src="https://github.com/marcelomaurin/Analise-de-Preco/blob/main/GRAFICO01.JPG">
 <br/>
 In the graph above, we can see the identification of points below the midline. Indicating that the rise in the dollar is inversely proportional to the rise in stock market indices.
 Suggesting that the rise in the dollar harms future earnings.
