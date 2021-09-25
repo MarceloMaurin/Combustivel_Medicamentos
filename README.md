@@ -10,7 +10,7 @@
 <li>Aland Montano RA:621201522 - email: aland_25@uni9.edu.br</li>
 <li>Jhone Fontenele RA:621200985 - email: jhone.fontenele@turck.com</li>
 <li>Luciano Braga RA:621202498 - email: braga.luciano@uni9.edu.br </li>
-  <li><a href="http://maurinsoft.com.br/index.php/sobre-nos/">Marcelo Maurin Martins</a> RA:621200322</li>
+  <li><a href="http://maurinsoft.com.br/index.php/sobre-nos/">Marcelo Maurin Martins</a> RA:621200322 - email: marcelomaurin@uni9.edu.br</li> 
 </ol>
 
 <H3>Trabalho</H3>
