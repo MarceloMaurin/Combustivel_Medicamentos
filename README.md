@@ -88,6 +88,7 @@ Comportamento esse que pode ser verificado em alguns artigos abaixo:
 <br/>
 <ol>
 <li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-quando-os-indices-da-bolsa-caem-o-dolar-aumenta/">Entenda por que quando os índices da bolsa caem o dolar aumenta</a></li>
+<li><a href="https://www.investimentonabolsa.com/2014/10/qual-relacao-dolar-ibovespa.html"/>Qual a relação entre o Dólar e o Ibovespa?</a></li>  
 </ol>
 
   <h4>Segunda analise de dados</h4>
@@ -189,7 +190,7 @@ This behavior can be seen in some articles below:
 <br/>
 <ol>
 <li><a href="http://www.sicoobexecutivo.com.br/ns/entenda-por-que-Quando-os-indices-da-bolsa-caem-o-dolar-aumenta/"> Understand why when stock market indices fall, the dollar rises</a></li>
-
+<li><a href="https://www.investimentonabolsa.com/2014/10/qual-relacao-dolar-ibovespa.html"/>What is the relationship between the Dollar and the Ibovespa?</a></li>  
 </ol>
 
 <h4>Second Data Analysis</h4>
