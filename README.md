@@ -75,7 +75,7 @@ Validar a variação de preços do dolar e sua contraparte no mercado de ações
 
 
 <h3>Conclusão do Trabalho</h3>
-Através da analise de uma pequena amostra, pudemos observar que neste contexto analisado.
+<p>Através da analise de uma pequena amostra, pudemos observar as seguintes afirmações a partir dos gráficos abaixo:</p>
 
 <h4>Gráfico Scatter ou Gráfico de Dispersão</h4>
 <br/>
@@ -175,7 +175,8 @@ Validate the price variation of the dollar and its counterpart in the stock mark
 
 
 <h3>Completion of Work</h3>
-Through the analysis of a small sample, we could observe that in this context analyzed.
+
+<p>Through the analysis of a small sample, we were able to observe the following statements from the graphs below:</P>
 
 <h4>Scatter Chart or Scatter Chart</h4>
 <br/>
